@@ -3,10 +3,12 @@ body {
 	color: black;
 	margin: 0;
 	text-align: center;
+	background-color: black;
 }
 
 h1 {
 	font-weight: lighter;
+	color: white;
 }
 
 #logo {
